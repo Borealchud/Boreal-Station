@@ -1546,10 +1546,11 @@
       params:
         volume: -9
         maxDistance: 3
+        
 - type: entity
   parent: BasePlushie
   id: FloydPlushie
-  name: Floydie
+  name: floydie
   description: Helps with breathing excersizes, and it seems to be soaking in fentynal.
   - type: Sprite
     state: floyd
