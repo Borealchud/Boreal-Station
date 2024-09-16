@@ -4,7 +4,7 @@
   name: Floydie
   description: Helps with breathing excersizes, and it seems to be soaking in fentynal.
   - type: Sprite
-    state: plushie_floyd
+    state: floyd
   - type: EmitSoundOnUse
     sound:
       path: /Audio/Items/Toys/Floyd.ogg
