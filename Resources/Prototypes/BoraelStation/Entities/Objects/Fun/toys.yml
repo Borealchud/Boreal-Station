@@ -4,7 +4,7 @@
   name: Floydie
   description: Helps with breathing excersizes, and it seems to be soaking in fentynal.
   - type: Sprite
-    state: plushie_lizard
+    state: plushie_floyd
   - type: EmitSoundOnUse
     sound:
       path: /Audio/Items/Toys/Floyd.ogg
@@ -28,7 +28,7 @@
   - type: Extractable
     juiceSolution:
       reagents:
-      - ReagentId: JuiceThatMakesYouWeh
+      - ReagentId: Desoxyephedrine
         Quantity: 30
   - type: SolutionContainerManager
     solutions:
@@ -37,5 +37,5 @@
         reagents:
         - ReagentId: Fiber
           Quantity: 10
-        - ReagentId: desoxyephedrine
+        - ReagentId: Desoxyephedrine
           Quantity: 10
