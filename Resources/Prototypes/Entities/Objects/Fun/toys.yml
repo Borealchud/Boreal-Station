@@ -1548,3 +1548,32 @@
         volume: -9
         maxDistance: 3
         
+  - type: entity
+  parent: BasePlushie
+  id: PlushieFloyd
+  name: floyd plush
+  description: Test.
+  components:
+  - type: Sprite
+    state: plushie_louie
+  - type: EmitSoundOnUse
+    sound:
+      path: /Audio/Items/Toys/mousesqueek.ogg
+  - type: EmitSoundOnLand
+    sound:
+      path: /Audio/Items/Toys/mousesqueek.ogg
+  - type: EmitSoundOnActivate
+    sound:
+      path: /Audio/Items/Toys/mousesqueek.ogg
+  - type: EmitSoundOnTrigger
+    sound:
+      path: /Audio/Items/Toys/mousesqueek.ogg
+  - type: Food
+    requiresSpecialDigestion: true
+    useSound:
+      path: /Audio/Items/Toys/mousesqueek.ogg
+  - type: MeleeWeapon
+    wideAnimationRotation: 180
+    soundHit:
+      path: /Audio/Items/Toys/mousesqueek.ogg
+      
