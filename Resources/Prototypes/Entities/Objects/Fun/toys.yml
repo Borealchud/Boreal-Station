@@ -1524,7 +1524,7 @@
   name: floydie
   description: Helps with breathing excersizes, and it seems to be soaking in fentynal.
   - type: Sprite
-    state: floyd
+    state: plushie_lizard
   - type: EmitSoundOnUse
     sound:
       path: /Audio/Items/Toys/Floyd.ogg
