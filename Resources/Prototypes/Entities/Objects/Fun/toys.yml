@@ -1555,7 +1555,7 @@
   description: Test.
   components:
   - type: Sprite
-    state: plushie_louie
+    state: floyd
   - type: EmitSoundOnUse
     sound:
       path: /Audio/Items/Toys/mousesqueek.ogg
