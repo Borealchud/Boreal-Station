@@ -329,6 +329,12 @@ uplink-hardsuit-syndieelite-desc = An elite version of the blood-red hardsuit, w
 uplink-clothing-outer-hardsuit-juggernaut-name = Cybersun Juggernaut Suit
 uplink-clothing-outer-hardsuit-juggernaut-desc = Hyper resilient armor made of materials tested in the Tau chromosphere facility. The only thing that's going to be slowing you down is this suit... and tasers.
 
+uplink-hardsuit-atomwaffen-name = Atomwaffen hardsuit
+uplink-hardsuit-atomwaffen-desc = A black and white combat hardsuit designed for Atomwaffen terrorists.
+
+uplink-hardsuit-atomwaffenelite-name = Atomwaffen elite hardsuit
+uplink-hardsuit-atomwaffenelite-desc = An upgraded Atomwaffen hardsuit with some of the ballistic armor converted to resist lasers, fire and radiation exceptionally more.
+
 # Misc
 uplink-cyberpen-name = Cybersun Pen
 uplink-cyberpen-desc = Cybersun's legal department pen, invaluable for forging documents and escaping prisons. Smells vaguely of hard-light and war profiteering.
