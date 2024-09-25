@@ -1080,7 +1080,7 @@
   icon: { sprite: Objects/Devices/communication.rsi, state: old-radio-borg-assault }
   cost:
     # Goobstation - Telecrystal rework
-    Telecrystal: 375
+    Telecrystal: 325
   categories:
     - UplinkAllies
   conditions:
@@ -1483,11 +1483,11 @@
   saleLimit: 1 # WD EDIT
 
 - type: listing
-  id: UplinkHardsuitSyndie
-  name: uplink-hardsuit-syndie-name
-  description: uplink-hardsuit-syndie-desc
-  icon: { sprite: /Textures/Clothing/OuterClothing/Hardsuits/syndicate.rsi, state: icon }
-  productEntity: ClothingBackpackDuffelSyndicateHardsuitBundle
+  id: UplinkHardsuitAtomwaffen # BOREAL STATION in the future, separate this and syndicate purchases, so syndicate operatives buy bloodreds while AW buys AW suits
+  name: uplink-hardsuit-atomwaffen-name # BOREAL STATION
+  description: uplink-hardsuit-atomwaffen-desc # BOREAL STATION
+  icon: { sprite: /Textures/BorealStation/Clothing/OuterClothing/Hardsuits/atomwaffen.rsi, state: icon } # BOREAL STATION
+  productEntity: ClothingBackpackDuffelAtomwaffenHardsuitBundle # BOREAL STATION
   cost:
     # Goobstation - Telecrystal rework
     Telecrystal: 40
@@ -1513,11 +1513,11 @@
   saleLimit: 1 # WD EDIT
 
 - type: listing
-  id: UplinkHardsuitSyndieElite
-  name: uplink-hardsuit-syndieelite-name
-  description: uplink-hardsuit-syndieelite-desc
-  icon: { sprite: /Textures/Clothing/OuterClothing/Hardsuits/syndieelite.rsi, state: icon }
-  productEntity: ClothingBackpackDuffelSyndicateEliteHardsuitBundle
+  id: UplinkHardsuitAtomwaffenElite # BOREAL STATION
+  name: uplink-hardsuit-atomwaffenelite-name # BOREAL STATION
+  description: uplink-hardsuit-atomwaffenelite-desc # BOREAL STATION
+  icon: { sprite: /Textures/BorealStation/Clothing/OuterClothing/Hardsuits/atomwaffenelite.rsi, state: icon } # BOREAL STATION
+  productEntity: ClothingBackpackDuffelAtomwaffenEliteHardsuitBundle # BOREAL STATION
   cost:
     # Goobstation - Telecrystal rework
     Telecrystal: 70
